@@ -1,4 +1,4 @@
-# Instacart-Data-Visualization-Story--Tableau
+# Instacart Data Visualization Story in Tableau
 The dataset is of Instacart, an electronic commerce grocery ordering and delivery organization taken from kaggle. The dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. The objective is to perform analysis for maximizing sales revenue and profit of instacart.
 The dataset contains details about the orders placed by various users, the sequence of products purchased in each order, the week and hour of day the order was placed, and a relative measure of time between orders. It also has information about the aisle and department for the sold products.
 
